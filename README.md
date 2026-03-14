@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @willekeh
 - 👀 I’m interested in drawing, programming and playing games
-- 🌱 I’m currently learning nodejs, php and java
+- 🌱 I’m currently learning react and c#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
